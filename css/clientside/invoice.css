@@ -1,0 +1,62 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 20px;
+    background-color: #4F6F52;
+  }
+
+  #invoice {
+    max-width: 800px;
+    margin: 0 auto;
+    border: 1px solid #ccc;
+    padding: 20px;
+    background: #f8f8f8;
+
+  }
+
+  #invoice h1 {
+    text-align: center;
+    color: #333;
+  }
+
+  .invoice-details {
+    margin-bottom: 20px;
+  }
+
+  .invoice-details div {
+    display: inline-block;
+    width: 49%;
+  }
+
+  #customer {
+    margin-top: 20px;
+  }
+
+  #customer th, #customer td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: left;
+  }
+
+  #items {
+    margin-top: 20px;
+    width: 100%;
+    border-collapse: collapse;
+  }
+
+  #items th, #items td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: left;
+  }
+
+  #total {
+    margin-top: 20px;
+    text-align: right;
+  }
+
+  #thanks {
+    margin-top: 20px;
+    text-align: center;
+    color: #333;
+  }

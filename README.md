@@ -20,3 +20,15 @@ apabila user ingin mengubah pilihan wisata dapat menggunakan menu batal
 Jika user sudah memilih pembayaran, maka user dapat memilih pilihan "bayar" dan akan ditampilkan faktur order sebagai berikut
 <img width="937" alt="image" src="https://github.com/NiWayanCiliWangi/Travel-Agent-Web/assets/146810269/b9d2ea92-c0bc-4f02-9a5e-c8223d7ba87e">
 
+Admin Side
+Pada halaman login untuk admin ditampilkan sebagai berikut
+<img width="960" alt="image" src="https://github.com/NiWayanCiliWangi/Travel-Agent-Web/assets/146810269/9d9ab257-da44-4a27-bf04-02b64eb8f4a0">
+Admin dapat Login dengan menginputkan Username dan Pssword maka akan ditampilkan admin page 
+<img width="960" alt="image" src="https://github.com/NiWayanCiliWangi/Travel-Agent-Web/assets/146810269/2e2d7fd5-f0a2-468a-809e-48c4986ae6e3">
+Pada admin page akan menampilkan data produk yang sudah ditambahkan, terdapat No, Id, Nama, Gambar, Lokasi, Deskripsi, Harga, dan Actions
+Actions dapat diperuntukan untuk mengubah atau menghapus data produk. 
+Pada page ini terdapat sub menu "Tambah Wisata"
+<img width="960" alt="image" src="https://github.com/NiWayanCiliWangi/Travel-Agent-Web/assets/146810269/c9efd1aa-3c61-4566-b644-3748bd7c0cc1">
+Apabila Admin ingin menambahkan wisata yang ingin dijual maka harus menginputkan data-data yang diminta seperti berikut
+<img width="960" alt="image" src="https://github.com/NiWayanCiliWangi/Travel-Agent-Web/assets/146810269/1e544583-3d36-4f6a-ab49-979224be1216">
+Jika semua data sudah diinputkan maka Admin dapat menekan button "Tambah" kemudian data wisata akan ditambahkan.
